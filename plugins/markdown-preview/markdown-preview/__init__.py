@@ -18,6 +18,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+import gi
+gi.require_version('WebKit', '3.0')
 from gi.repository import Gdk, Gtk, Gedit, GObject, WebKit, Gio
 import codecs
 import os
