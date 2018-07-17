@@ -29,7 +29,7 @@ Specifically, it adds:
 
 ## Installation (or update)
 
-- [Download the archive of gedit-markdown v2.](https://github.com/jpfleury/gedit-markdown/archive/master.zip)
+- [Download the archive of gedit-markdown v2.](https://github.com/nielsmde/gedit-markdown/archive/master.zip)
 
 - Extract the archive.
 
